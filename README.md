@@ -1,3 +1,2 @@
-### Internship Tasks
 
 In this project, I implemented a Support Vector Machine (SVM) to classify images of cats and dogs using the [Dogs vs. Cats dataset](https://www.kaggle.com/c/dogs-vs-cats/data) from Kaggle. This task involved building a model capable of distinguishing between cat and dog images, which required preprocessing the image data, training the SVM classifier, and evaluating its performance. I utilized Python and key libraries such as Scikit-learn, TensorFlow, and OpenCV to handle the image data, implement the SVM, and achieve accurate classification. This project has strengthened my understanding of image classification and the practical application of SVMs in computer vision.
